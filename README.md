@@ -15,5 +15,7 @@
 - A Estatística Básica e sua Prática
 - Manual de Análise de Dados: Estatística e Machine Learning com Excel®, SPSS®, Stata®, R® e Python®
 
+**SQL**
+- SQL - Guia Prático: Um guia para o uso de SQL - O'Reilly
 _______
 Em manutenção 🚧
